@@ -128,14 +128,6 @@
 </details>
 
 <details>
-  <summary><h3>15. Table Full Scan, Index Range Scan에 대해 설명해 주세요.</h3></summary>
-<ul>
-  <li>가끔은 인덱스를 타는 쿼리임에도 Table Full Scan 방식으로 동작하는 경우가 있습니다. 왜 그럴까요?</li>
-  <li> COUNT (개수를 세는 쿼리) 는 어떻게 동작하나요? COUNT(1), COUNT(*), COUNT(column) 의 동작 과정에는 차이가 있나요?</li>
-</ul>
-</details>
-
-<details>
   <summary><h3>16. SQL Injection에 대해 설명해 주세요.</h3></summary>
 <ul>
   <li>그렇다면, 우리가 서버 개발 과정에서 사용하는 수많은 DB 라이브러리들은 이 문제를 어떻게 해결할까요?</li>
