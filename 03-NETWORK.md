@@ -71,17 +71,6 @@
 </details>
 
 <details>
-  <summary><h3>8. DHCP가 무엇인지 설명해 주세요.</h3></summary>
-<ul>
-<li> DHCP는 몇 계층 프로토콜인가요? </li>
-<li> DHCP는 어떻게 동작하나요?</li>
-<li> DHCP에서 UDP를 사용하는 이유가 무엇인가요?</li>
-<li> DHCP에서, IP 주소 말고 추가로 제공해주는 정보가 있나요?</li>
-<li> DHCP의 유효기간은 얼마나 긴가요?</li>
-</ul>
-</details>
-
-<details>
   <summary><h3>9. IP 주소는 무엇이며, 어떤 기능을 하고 있나요?</h3></summary>
 <ul>
 <li> IPv6는 IPv4의 주소 고갈 문제를 해결하기 위해 만들어졌지만, 아직도 수많은 기기가 IPv4를 사용하고 있습니다. 고갈 문제를 어떻게 해결할 수 있을까요?</li>
@@ -163,15 +152,6 @@
 <li> 왜 HTTP는 Stateless 구조를 채택하고 있을까요?</li>
 <li> Connectionless의 논리대로면 성능이 되게 좋지 않을 것으로 보이는데, 해결 방법이 있을까요?</li>
 <li> TCP의 keep-alive와 HTTP의 keep-alive의 차이는 무엇인가요?</li>
-</ul>
-</details>
-
-<details>
-  <summary><h3>17. 라우터 내의 포워딩 과정에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> 라우팅과 포워딩의 차이는 무엇인가요?</li>
-<li> 라우팅 알고리즘에 대해 설명해 주세요.</li>
-<li> 포워딩 테이블의 구조에 대해 설명해 주세요.</li>
 </ul>
 </details>
 
